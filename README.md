@@ -39,7 +39,7 @@ install.packages(c("cluster", "readr", "dplyr", "readxl", "ggplot2", "forecast",
 ```
 Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/gdp-population-analysis.git
+   git clone https://github.com/yourusername/gdp-population-analysis.git](https://github.com/techcodebhavesh/Data_Science__CP_SEM3.git
    cd gdp-population-analysis
    
 2. Open the R script (DS.R) in RStudio and execute the code.
