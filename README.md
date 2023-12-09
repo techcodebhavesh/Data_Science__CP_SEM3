@@ -6,7 +6,7 @@ GDP and Population Analysis Project
 Overview
 This project is a comprehensive analysis of Gross Domestic Product (GDP) and population data from various regions. By employing advanced clustering techniques and time series analysis, the goal is to uncover patterns, trends, and actionable insights within the economic and demographic data. The project not only provides a detailed examination of economic growth but also explores the interplay between GDP and population dynamics.
 
-Table of Contents
+Table of Contents[Markdown]
 Getting Started
 Prerequisites
 Installation
